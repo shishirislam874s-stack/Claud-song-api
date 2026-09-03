@@ -1,0 +1,9 @@
+{
+  "name": "yt-audio-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "yt-search": "^2.13.1"
+  }
+}
